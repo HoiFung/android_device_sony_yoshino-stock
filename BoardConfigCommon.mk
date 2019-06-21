@@ -70,7 +70,7 @@ TARGET_COMPILE_WITH_MSM_KERNEL := true
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_SOURCE := kernel/sony/msm8998
-TARGET_KERNEL_CONFIG := mokee_maple_defconfig
+TARGET_KERNEL_CONFIG := lineage_maple_defconfig
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-android-
 
 # Properties
