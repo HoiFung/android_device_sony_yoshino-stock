@@ -518,7 +518,6 @@ lib64/libimageprocessorjni.so
 -priv-app/ArtFilterCamera-xxhdpi-release/ArtFilterCamera-xxhdpi-release.apk
 -priv-app/TimeShiftCamera-release/TimeShiftCamera-release.apk
 -priv-app/CameraPanorama-release/CameraPanorama-release.apk
--priv-app/SemcAlbum-albumLive-release/SemcAlbum-albumLive-release.apk
 -priv-app/SemcCameraUI-xxhdpi-release/SemcCameraUI-xxhdpi-release.apk
 -priv-app/SoundPhotoCamera-xxhdpi-release/SoundPhotoCamera-xxhdpi-release.apk
 
