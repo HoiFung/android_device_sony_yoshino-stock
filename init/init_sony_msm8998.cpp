@@ -1,6 +1,6 @@
 /*
 Copyright (c) 2013, The Linux Foundation. All rights reserved.
-Copyright (c) 2018, The MoKee Open Source Project
+Copyright (c) 2018, The LineageOS Open Source Project
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
