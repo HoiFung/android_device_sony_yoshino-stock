@@ -294,5 +294,8 @@ WIFI_DRIVER_MODULE_PATH := "/vendor/lib/modules/wlan.ko"
 WIFI_DRIVER_MODULE_NAME := "wlan"
 WIFI_HIDL_FEATURE_DUAL_INTERFACE := true
 
+# to build data-ipa-cfg-mgr from device tree
+USE_DEVICE_SPECIFIC_DATA_IPA_CFG_MGR := true
+
 # inherit from the proprietary version
 -include vendor/sony/yoshino/BoardConfigVendor.mk
