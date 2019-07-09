@@ -225,3 +225,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Wi-Fi
 PRODUCT_PROPERTY_OVERRIDES += \
     wifi.interface=wlan0
+    
+# Hack for Youtube
+PRODUCT_PROPERTY_OVERRIDES += \
+sys.display-size=3840x2160
